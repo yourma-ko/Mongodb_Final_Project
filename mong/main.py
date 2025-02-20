@@ -3,7 +3,7 @@ import json
 url = "https://walmart-data.p.rapidapi.com/search"
 headers = {
     "x-rapidapi-host": "walmart-data.p.rapidapi.com",
-    "x-rapidapi-key": "14b2ba5617msh42ddf51b2e7ce18p1f1143jsnf3549a34559c"  
+    "x-rapidapi-key": "lol"  
 }
 query_params = {
     "q": "laptop",
